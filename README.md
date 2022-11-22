@@ -1,4 +1,5 @@
 # Homework 10
-This homework focuses on using regular expression to split or extract information from text, as well as using Postgres' full text search features. You'll initially be using `fables.txt` and cleaning and parsing the data into a nicer tabular form, before doing some analysis. You won't need `make_animals.sql` until the last part of the last problem. Don't forget to upload CSV files of any tables you were asked to create if you haven't copied them into your solutions elsewhere.
+This homework focuses on table normalization, as well as using regular expression to split or extract information from text and using Postgres' full text search features. Upon completion you should have
+- [ ] Uploaded 3 images for Problem 1
+- [ ] Uploaded the completed Problem 2 template
 
-Due: April 8, 2022

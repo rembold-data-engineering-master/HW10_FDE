@@ -1,0 +1,38 @@
+[
+    {
+        "student_id": 2948294,
+        "name": "Janet",
+        "submitted_date": "2022-09-22",
+        "assignment": "Homework 1",
+        "total_available_points": 20,
+        "deductions": [
+            {"id": 1, "comment": "Didn't read instructions well", "deduction": -1},
+            {"id": 2, "comment": "Missed a negative", "deduction": -0.5}
+        ]
+    },
+    {
+        "student_id": 2345266,
+        "name": "Bob",
+        "submitted_date": "2022-09-23",
+        "assignment": "Homework 1",
+        "total_available_points": 20,
+        "deductions": [
+            {"id": 1, "comment": "Didn't read instructions well", "deduction": -1},
+            {"id": 1, "comment": "Didn't read instructions well", "deduction": -1},
+            {"id": 3, "comment": "Skipped entire problem?", "deduction": -5},
+            {"id": 4, "comment": "Missing CSV upload", "deduction": -2}
+        ]
+    },
+    {
+        "student_id": 2345266,
+        "name": "Bob",
+        "submitted_date": "2022-10-05",
+        "assignment": "Homework 2",
+        "total_available_points": 15,
+        "deductions": [
+            {"id": 1, "comment": "Didn't read instructions well", "deduction": -1},
+            {"id": 4, "comment": "Missing CSV upload", "deduction": -2},
+            {"id": 4, "comment": "Missing CSV upload", "deduction": -2}
+        ]
+    }
+]
