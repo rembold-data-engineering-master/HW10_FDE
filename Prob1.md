@@ -1,48 +1,34 @@
 # Problem 1
 - List of any other students you worked with:
 - About how long did you work on this problem?
-- ChatGPT Conversation link (if used):
+- GenAI Conversation link (if used):
 
 There are several parts to this, so include the SQL below. **Don't forget you have a file to upload for this problem!**
 
 
-## SQL to create initial fables_raw table
+## SQL to create initial tables
 ```sql
 
 ```
 
-## SQL to import data into fables_raw
+## Part A: SQL to create, populate, and index a geography column
 ```sql
 
 ```
 
-## SQL to create new table with one fable's worth of info on each row
+## Part B: SQL to find all cities visible from the flight path. Should give 6128 rows
 ```sql
 
 ```
 
+## Part C: 5 most populous cities seen?
+**Answer:**
+```sql
 
+```
 
+## Part D: Cities per Country?
+**Don't forget to upload your CSV as well!**
+```sql
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```

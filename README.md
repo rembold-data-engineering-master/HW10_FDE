@@ -1,3 +1,12 @@
-# Homework 9
-This homework focuses on using regular expression to split or extract information from text, as well as using Postgres' full text search features. You'll initially be using `fables.txt` and cleaning and parsing the data into a nicer tabular form, before doing some analysis. You won't need `make_animals.sql` until the last part of the last problem. Don't forget to upload CSV files of any tables you were asked to create if you haven't copied them into your solutions elsewhere.
+# Homework 10 (The Last One!)
 
+Everything this week is working with GIS content. In the zip file `prob1_data.zip` are two files:
+* `cities.csv` - A spreadsheet of all the cities in the world with populations over 1000
+* `country_info.csv` - A spreadsheet of the corresponding country information for all countries
+
+There is also an included data dictionary with information about the various columns in both tables:
+* `data_dict.md` - A breakdown of the columns present in each table
+
+You will need to import the information from both `*.csv` files into your database, but to save you the issue of having to name all your columns, I have also included `create_tables.sql` which you can run or copy from to generate your initial tables.
+
+To do the extra credit problem you will need the shapefile link from the guide. You will need to unzip and then import that information into your database to answer the question.
